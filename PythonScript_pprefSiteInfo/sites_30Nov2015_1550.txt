@@ -1,0 +1,156 @@
+Processing for PD MinimumBias1 with countPDs 1
+Processing for PD MinimumBias2 with countPDs 2
+Processing for PD MinimumBias3 with countPDs 3
+Processing for PD MinimumBias4 with countPDs 4
+Processing for PD MinimumBias5 with countPDs 5
+Processing for PD MinimumBias6 with countPDs 6
+Processing for PD MinimumBias7 with countPDs 7
+Processing for PD MinimumBias8 with countPDs 8
+Processing for PD MinimumBias9 with countPDs 9
+Processing for PD MinimumBias10 with countPDs 10
+Processing for PD MinimumBias11 with countPDs 11
+Processing for PD MinimumBias12 with countPDs 12
+Processing for PD MinimumBias13 with countPDs 13
+Processing for PD MinimumBias14 with countPDs 14
+Processing for PD MinimumBias15 with countPDs 15
+Processing for PD MinimumBias16 with countPDs 16
+Processing for PD MinimumBias17 with countPDs 17
+Processing for PD MinimumBias18 with countPDs 18
+Processing for PD MinimumBias19 with countPDs 19
+Processing for PD MinimumBias20 with countPDs 20
+Processing for PD ppForward with countPDs 21
+Processing for PD HighMultiplicity with countPDs 22
+Processing for PD FullTrack with countPDs 23
+Processing for PD BTagCSV with countPDs 24
+Processing for PD HeavyFlavor with countPDs 25
+Processing for PD HighPtPhoton30AndZ with countPDs 26
+Processing for PD HighPtLowerPhotons with countPDs 27
+Processing for PD JetHT with countPDs 28
+Processing for PD HighPtJet80 with countPDs 29
+Processing for PD HighPtLowerJets with countPDs 30
+Processing for PD DoubleMu with countPDs 31
+Processing for PD MuPlusX with countPDs 32
+Processing for PD SingleMuHighPt with countPDs 33
+Processing for PD SingleMuLowPt with countPDs 34
++-----------------+------------------------+
+| MinBias PD Name | Site, Dataset Presense |
++-----------------+------------------------+
+|                 |   T2_CH_CERN 100.00%   |
+|   MinimumBias1  | T1_US_FNAL_Disk 48.55% |
+|                 | T0_CH_CERN_Disk 92.09% |
++-----------------+------------------------+
+|   MinimumBias2  | T1_US_FNAL_Disk 84.98% |
+|                 | T0_CH_CERN_Disk 84.98% |
++-----------------+------------------------+
+|   MinimumBias3  | T1_US_FNAL_Disk 48.44% |
+|                 | T0_CH_CERN_Disk 83.92% |
++-----------------+------------------------+
+|   MinimumBias4  | T1_US_FNAL_Disk 48.58% |
+|                 | T0_CH_CERN_Disk 85.50% |
++-----------------+------------------------+
+|   MinimumBias5  | T1_US_FNAL_Disk 86.46% |
+|                 | T0_CH_CERN_Disk 84.95% |
++-----------------+------------------------+
+|   MinimumBias6  | T1_US_FNAL_Disk 86.80% |
+|                 | T0_CH_CERN_Disk 84.70% |
++-----------------+------------------------+
+|   MinimumBias7  | T1_US_FNAL_Disk 82.88% |
+|                 | T0_CH_CERN_Disk 85.09% |
++-----------------+------------------------+
+|   MinimumBias8  | T1_US_FNAL_Disk 47.95% |
+|                 | T0_CH_CERN_Disk 84.52% |
++-----------------+------------------------+
+|   MinimumBias9  | T1_US_FNAL_Disk 14.81% |
+|                 | T0_CH_CERN_Disk 85.19% |
++-----------------+------------------------+
+|  MinimumBias10  | T1_US_FNAL_Disk 47.80% |
+|                 | T0_CH_CERN_Disk 84.60% |
++-----------------+------------------------+
+|  MinimumBias11  | T1_US_FNAL_Disk 48.96% |
+|                 | T0_CH_CERN_Disk 85.00% |
++-----------------+------------------------+
+|  MinimumBias12  | T1_US_FNAL_Disk 48.60% |
+|                 | T0_CH_CERN_Disk 84.60% |
++-----------------+------------------------+
+|  MinimumBias13  | T1_US_FNAL_Disk 48.80% |
+|                 | T0_CH_CERN_Disk 85.00% |
++-----------------+------------------------+
+|  MinimumBias14  | T1_US_FNAL_Disk 95.21% |
+|                 | T0_CH_CERN_Disk 86.25% |
++-----------------+------------------------+
+|  MinimumBias15  | T1_US_FNAL_Disk 48.39% |
+|                 | T0_CH_CERN_Disk 84.94% |
++-----------------+------------------------+
+|  MinimumBias16  | T1_US_FNAL_Disk 52.32% |
+|                 | T0_CH_CERN_Disk 86.28% |
++-----------------+------------------------+
+|  MinimumBias17  | T1_US_FNAL_Disk 41.26% |
+|                 | T0_CH_CERN_Disk 73.04% |
++-----------------+------------------------+
+|  MinimumBias18  | T1_US_FNAL_Disk 48.80% |
+|                 | T0_CH_CERN_Disk 84.87% |
++-----------------+------------------------+
+|  MinimumBias19  | T1_US_FNAL_Disk 46.49% |
+|                 | T0_CH_CERN_Disk 84.97% |
++-----------------+------------------------+
+|  MinimumBias20  | T1_US_FNAL_Disk 84.47% |
+|                 | T0_CH_CERN_Disk 84.07% |
++-----------------+------------------------+
+ 
++--------------------+-------------------------+
+|   Other PD Name    |  Site, Dataset Presense |
++--------------------+-------------------------+
+|     ppForward      |  T1_US_FNAL_Disk 56.77% |
+|                    |  T0_CH_CERN_Disk 65.50% |
++--------------------+-------------------------+
+|                    |    T2_CH_CERN  0.00%    |
+|  HighMultiplicity  |  T1_US_FNAL_Disk  5.59% |
+|                    |  T0_CH_CERN_Disk 18.01% |
++--------------------+-------------------------+
+|                    |    T2_CH_CERN  0.00%    |
+|     FullTrack      |  T1_US_FNAL_Disk  8.89% |
+|                    |  T0_CH_CERN_Disk 91.11% |
++--------------------+-------------------------+
+|                    |  T2_FR_GRIF_LLR 100.00% |
+|      BTagCSV       |    T2_CH_CERN  0.00%    |
+|                    |  T1_ES_PIC_Disk 100.00% |
++--------------------+-------------------------+
+|    HeavyFlavor     |  T1_US_FNAL_Disk 30.92% |
+|                    |  T0_CH_CERN_Disk 77.78% |
++--------------------+-------------------------+
+|                    |    T2_CH_CERN 100.00%   |
+| HighPtPhoton30AndZ |  T1_US_FNAL_Disk 73.56% |
+|                    |  T0_CH_CERN_Disk 50.57% |
++--------------------+-------------------------+
+|                    |    T2_CH_CERN  0.00%    |
+| HighPtLowerPhotons |  T1_US_FNAL_Disk 79.26% |
+|                    |  T0_CH_CERN_Disk 37.33% |
++--------------------+-------------------------+
+|       JetHT        |    T2_CH_CERN 100.00%   |
+|                    | T1_IT_CNAF_Disk 100.00% |
++--------------------+-------------------------+
+|                    |    T2_CH_CERN 99.15%    |
+|    HighPtJet80     |  T1_US_FNAL_Disk 24.58% |
+|                    |  T0_CH_CERN_Disk 76.69% |
++--------------------+-------------------------+
+|                    |    T2_CH_CERN  0.00%    |
+|  HighPtLowerJets   |  T1_US_FNAL_Disk 34.33% |
+|                    |  T0_CH_CERN_Disk 65.67% |
++--------------------+-------------------------+
+|                    | T2_US_Vanderbilt 67.32% |
+|      DoubleMu      |  T1_US_FNAL_Disk 26.80% |
+|                    |  T0_CH_CERN_Disk 73.20% |
++--------------------+-------------------------+
+|                    | T2_US_Vanderbilt 53.47% |
+|      MuPlusX       |    T2_CH_CERN  0.00%    |
+|                    |  T1_US_FNAL_Disk 24.31% |
+|                    |  T0_CH_CERN_Disk 75.69% |
++--------------------+-------------------------+
+|                    | T2_US_Vanderbilt 69.13% |
+|   SingleMuHighPt   |  T1_US_FNAL_Disk 56.38% |
+|                    |  T0_CH_CERN_Disk 94.93% |
++--------------------+-------------------------+
+|                    | T2_US_Vanderbilt 41.93% |
+|   SingleMuLowPt    |  T1_US_FNAL_Disk 41.93% |
+|                    |  T0_CH_CERN_Disk 88.63% |
++--------------------+-------------------------+

@@ -1,0 +1,5 @@
+T2_US_Vanderbilt 96.70%
+T1_US_FNAL_MSS 96.70%
+T1_US_FNAL_Disk 96.70%
+T1_US_FNAL_Buffer 96.70%
+T0_CH_CERN_Disk 52.32%

@@ -1,0 +1,12 @@
+Block Completion:  
+Total number of blocks fully transferred to the site divided by total number of blocks at this site 
+
+Block Presence:
+Total number of blocks at the site divided by total number of blocks in a dataset
+
+Dataset Presence:
+Total number of files at the site divided by total number of files in a dataset
+
+File-replica presence:
+Total number of files at the site divided by total number of  files in all block at this site
+
