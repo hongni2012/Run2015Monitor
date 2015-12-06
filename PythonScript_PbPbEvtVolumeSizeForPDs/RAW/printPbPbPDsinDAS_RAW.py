@@ -111,11 +111,11 @@ for pdName in pdNames:
     fileInput = open('lumicounts.txt','r')
     thisLumis = 0
     for line in fileInput:
-        nLumis = line.strip('count(lumi)=N/A')
-        if(nLumis != '[]'):
-            thisLumis = int(nLumis)
+        if line.find('N/A') > 0:
+             nLumis = 0 
         else:
-            nLumis = 0
+            nLumis = line.strip('count(lumi)=')
+            thisLumis = int(nLumis)
         totalLumis += thisLumis
 
     if(thisLumis == 0):
@@ -130,8 +130,10 @@ for pdName in pdNames:
     fileInput = open('maxfilesize.txt','r')
     thisMaxSize = 0
     for line in fileInput:
-        maxsize = line.strip('max(file.size)=')
-        if(maxsize != '[]'):    
+        if line.find('N/A') > 0:
+            maxsize = 0
+        else:
+            maxsize = line.strip('max(file.size)=')
             thisMaxSize = int(maxsize)/1.0e9
     fileInput.close()
    
@@ -149,7 +151,10 @@ for pdName in pdNames:
     if(break2Debug and countPDs == 2):
         break   # break out of PD names loop after two files
 
-averageEventSize = totalRAWSize*1.0e3/totalRAWEvents
+if(totalRAWEvents != 0):
+    averageEventSize = totalRAWSize*1.0e3/totalRAWEvents
+else:
+    averageEventSize = 0
 if(totalLumis != 0):
     averageFileSizePerLumi = totalRAWSize/totalLumis
 else:
